@@ -1,6 +1,6 @@
 # CekSehat - C242-PS306 🧑‍⚕️👩‍⚕️📱
 ---
-CekSehat is a smart digital health assistant, designed to meet your comprehensive health needs. With a sophisticated chatbot, CekSehat is able to provide general health information, from disease explanations to health maintenance tips. Not only that, CekSehat is also equipped with informative health articles, making CekSehat the only platform you need to manage your physical and mental health easily and effectively.
+CekSehat is a digital health assistant that addresses common barriers to healthcare access, such as long wait times, high costs, and limited facilities. The app features a chatbot that provides real-time responses for symptom screening and initial health consultations, offering users immediate advice based on their reported symptoms. In addition, CekSehat includes a collection of health articles, providing users with informative content to help manage their well-being. By combining real-time chatbot interactions and valuable health information, CekSehat empowers users to take charge of their health with ease and convenience.
 
 ![Healthcare](https://github.com/user-attachments/assets/832a10f2-3db4-41f5-a599-e453b0955919)
 
