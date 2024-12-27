@@ -33,3 +33,7 @@ CekSehat is a digital health assistant that addresses common barriers to healthc
     * Kotlin
     * Android Studio
     * Retrofit
+    * 
+## You Can Download The CekSehat App Here:
+[Download The CekSehat.apk](https://drive.google.com/file/d/1JBTshuFRu35Y9zbx3dR2G4ZK-ui2v0cy/view?usp=sharing)
+
